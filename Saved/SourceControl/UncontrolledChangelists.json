@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Bella/Downloads/cast-and-slash/Content/Characters/BP_Ghoul.uasset",
+				"C:/Users/Bella/Downloads/cast-and-slash/Content/Assets/ABP_Ghoul.uasset",
+				"C:/Users/Bella/Downloads/cast-and-slash/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Bella/Downloads/cast-and-slash/Content/Assets/Dungeon_Assets/AssetTestLevel.umap"
+			]
+		}
+	]
+}
