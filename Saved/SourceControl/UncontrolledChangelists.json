@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/frank/Downloads/cast-and-slash/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/frank/Downloads/cast-and-slash/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
 				"C:/Users/frank/Downloads/cast-and-slash/Content/ThirdPerson/Player_UI.uasset",
@@ -276,6 +277,12 @@
 				"C:/Users/dlem8/Documents/UnrealEngineProjects/SPRAWL/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/GO/R41CM6YIKB7LXSVWQTCP6V.uasset",
 				"C:/Users/dlem8/Documents/UnrealEngineProjects/SPRAWL/Content/Procedural_Dungeon/Dungeon_Room_2.uasset",
 				"C:/Users/dlem8/Documents/UnrealEngineProjects/SPRAWL/Content/Procedural_Dungeon/Close_Exit.uasset"
+=======
+				"C:/Users/Bella/Downloads/cast-and-slash/Content/Characters/BP_Ghoul.uasset",
+				"C:/Users/Bella/Downloads/cast-and-slash/Content/Assets/ABP_Ghoul.uasset",
+				"C:/Users/Bella/Downloads/cast-and-slash/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Bella/Downloads/cast-and-slash/Content/Assets/Dungeon_Assets/AssetTestLevel.umap"
+>>>>>>> bella
 			]
 		}
 	]
